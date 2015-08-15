@@ -1,1 +1,4 @@
-Explain what a branch is, in your own words
+ A branch is essentially a pointer that points to the last commit you made. If you create a new branch from a master directory, that new branch will contain all
+ of the files from the master diretory however any edits made to the new branch will not be reflected in the master directory. It is however possible to merge branches
+ so that any changes made in one branch can be applied to the master branch when you feel ready to do so. Branching is a safe of way working on a new (and perhaps
+ unstable) aspect of a project whilst keeping the core intact.
