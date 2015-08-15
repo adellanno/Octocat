@@ -1,1 +1,5 @@
-Explain what git clone does, in your own words
+Git clone is used to clone a repository from Github and give you a local copy which you can edit yourself. For example:
+
+git clone git@github.com:adellanno/Octocat.git
+
+would clone an exact copy of the Octocat repository to the current working directory.
